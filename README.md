@@ -2,9 +2,9 @@
 # I am Ogungbemi David _a.k.a **David OG**_
 ## A Frontend Developer 
 
-- 🔭 I’m currently working on a **Multi-page Form**
+- 🔭 I’m currently working on a **Weather App**
 
-- 🌱 I’m currently learning **React js**, **PHP**
+- 🌱 I’m currently learning **React js**, **Tailwind CSS**
 
 - 📫 You can reach me on
   Twitter- [@David Ogungbemi](https://www.twitter.com/Deiveed0) 

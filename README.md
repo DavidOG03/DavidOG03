@@ -2,16 +2,16 @@
 # I am Ogungbemi David _a.k.a **David OG**_
 ## A Frontend Developer 
 
-- 🔭 I’m currently working on a **Weather App**
+- 🔭 I’m currently working on an **E-commerce website**
 
-- 🌱 I’m currently learning **React js**, **Tailwind CSS**
+- 🌱 I’m currently learning **Next Js**, **Tyescript**
 
 - 📫 You can reach me on
   Twitter- [@David Ogungbemi](https://www.twitter.com/Deiveed0) 
 
 - 😄 My pronouns are His/him
 
-- ⚡ Fun fact: I am currently studying Civil Engineering 👷 and I am a drummer 🥁
+- ⚡ Fun fact: I am currently studying Civil Engineering 👷
 
 <!--
 **DavidOG03/DavidOG03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

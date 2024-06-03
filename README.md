@@ -7,7 +7,10 @@
 - 🌱 I’m currently learning **Next Js**, **Tyescript**
 
 - 📫 You can reach me on
-  Twitter- [@David Ogungbemi](https://www.twitter.com/Deiveed0) 
+  Twitter- [@David Ogungbemi](https://www.twitter.com/Deiveed0)
+  LinkedIn - [@DavidOG03](https://www.linkedin.com/in/david-ogungbemi-7455551b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  Facebook - [@DavidOG03](https://www.facebook.com/share/BEVqfkGoLP3Kx2BH/?mibextid=qi2Omg)
+  Instagram - [@DavidOGTech](https://www.instagram.com/davidogtech?utm_source=qr&igsh=M2Z4Y2Voa3pkbDMx)
 
 - 😄 My pronouns are His/him
 

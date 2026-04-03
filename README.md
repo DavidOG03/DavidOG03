@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi!👋
 # I am Ogungbemi David _a.k.a **David OG**_
-## A Frontend Developer 
+## A Frontend Developer/Engineer 
 
-- 🔭 I’m currently working on an **E-commerce website**
+- 🔭 I’m currently working on **Leben**
 
-- 🌱 I’m currently learning **Next Js**, **Tyescript**
 
 - 📫 You can reach me on
    
@@ -16,9 +15,6 @@
   
 - **Instagram** - [@DavidOGTech](https://www.instagram.com/davidogtech?utm_source=qr&igsh=M2Z4Y2Voa3pkbDMx)
 
-- 😄 My pronouns are His/him
-
-- ⚡ Fun fact: I am currently studying Civil Engineering 👷
 
 <!--
 **DavidOG03/DavidOG03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

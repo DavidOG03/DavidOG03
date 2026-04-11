@@ -1,32 +1,38 @@
-### Hi!👋
-# I am Ogungbemi David _a.k.a **David OG**_
-## A Frontend Developer/Engineer 
+# David OG — Frontend Engineer
 
-- 🔭 I’m currently working on **Leben**
+I build interfaces that think. Currently working on **[Leben](https://leben-os.vercel.app)** — a personal life OS that combines task management, habit tracking, goal setting, and AI-powered daily planning into one system.
 
+I care about clean architecture, component design, and making AI feel useful rather than gimmicky.
 
-- 📫 You can reach me on
-   
-- **Twitter** - [@David Ogungbemi](https://www.twitter.com/Deiveed0)
-  
-- **LinkedIn** - [@DavidOG03](https://www.linkedin.com/in/david-ogungbemi-7455551b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  
-- **Facebook** - [@DavidOG03](https://www.facebook.com/share/BEVqfkGoLP3Kx2BH/?mibextid=qi2Omg)
-  
-- **Instagram** - [@DavidOGTech](https://www.instagram.com/davidogtech?utm_source=qr&igsh=M2Z4Y2Voa3pkbDMx)
+---
 
+### What I'm building
 
-<!--
-**DavidOG03/DavidOG03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**✦ Leben** — Personal life OS built with Next.js 14, Supabase, and Google Gemini. Full-stack solo build: auth, database with RLS, AI-generated daily plans, analytics. [View repo](https://github.com/DavidOG03/Leben) · [Live demo](https://leben-os.vercel.app)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=DavidOG03&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=7c6af0&icon_color=7c6af0&text_color=888" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidOG03&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=7c6af0&text_color=888" height="160" />
+
+---
+
+### Let's connect
+
+I build in public and share what I learn along the way.
+
+[Twitter/X](https://www.twitter.com/Deiveed0) · [LinkedIn](https://www.linkedin.com/in/david-ogungbemi-7455551b5) · [Instagram](https://www.instagram.com/davidogtech)

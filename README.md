@@ -36,4 +36,4 @@ I care about clean architecture, component design, and making AI feel useful.
 
 I build in public and share what I learn along the way.
 
-[Twitter/X](https://www.twitter.com/Deiveed0) · [LinkedIn](https://www.linkedin.com/in/david-ogungbemi-7455551b5) · [Instagram](https://www.instagram.com/davidogtech)
+[Twitter/X](https://www.twitter.com/Deiveed0) · [LinkedIn](https://www.linkedin.com/in/david-ogungbemi-7455551b5) 

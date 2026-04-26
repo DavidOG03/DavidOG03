@@ -1,8 +1,9 @@
 # David OG — Frontend Engineer
 
-I build interfaces that think. Currently working on **[Leben](https://leben-os.vercel.app)** — a personal life OS that combines task management, habit tracking, goal setting, and AI-powered daily planning into one system.
+I solve problems using websites, web apps and mobile apps.
+Currently working on **[Leben](https://leben-os.vercel.app)** — a personal life OS that combines task management, habit tracking, goal setting, and AI-powered daily planning into one system.
 
-I care about clean architecture, component design, and making AI feel useful rather than gimmicky.
+I care about clean architecture, component design, and making AI feel useful.
 
 ---
 

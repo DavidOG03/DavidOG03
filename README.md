@@ -1,4 +1,4 @@
-# David OG — Frontend Engineer
+# David OG — Frontend Engineer || Web and Mobile App Developer
 
 I solve problems using websites, web apps and mobile apps.
 ---
